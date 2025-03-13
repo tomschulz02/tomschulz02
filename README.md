@@ -1,4 +1,4 @@
-👋 Hi, I’m @tomschulz02
+👋 Hi, I’m @tomschulz02\
 I am currently a 3rd year Computer Science student at the University of Pretoria
 
 <!---
